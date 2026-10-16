@@ -6,7 +6,7 @@ img: audit.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
-project-url: imap://chazmanwillis%40gmail.com@imap.gmail.com:993/fetch%3EUID%3E/INBOX%3E124739?part=1.2&filename=Copy%20of%20Controls%20and%20compliance%20checklist.pdf&type=application/pdf
+project-url: https://docs.google.com/document/d/1gHBFepYGLNBhZKB4liyFTvYnNwzu8umhy0d7rLXZgn0/edit?tab=t.0#heading=h.87tykp1u0l36
 
 description: Conducted a controls and compliance assessment and provided recommendations to company stakeholders to mitigate risks and avoid fines based on best practices for NIST CSF, PCI DSS, GDPR, SOC 1 & SOC 2.
 ---
